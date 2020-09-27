@@ -1,0 +1,13 @@
+C:\Users\Naveed Akhtar\source\repos\HelloWorldConsoleApp1\Hello World Console App 1\bin\Debug\netcoreapp3.1\Hello World Console App 1.exe
+C:\Users\Naveed Akhtar\source\repos\HelloWorldConsoleApp1\Hello World Console App 1\bin\Debug\netcoreapp3.1\Hello World Console App 1.deps.json
+C:\Users\Naveed Akhtar\source\repos\HelloWorldConsoleApp1\Hello World Console App 1\bin\Debug\netcoreapp3.1\Hello World Console App 1.runtimeconfig.json
+C:\Users\Naveed Akhtar\source\repos\HelloWorldConsoleApp1\Hello World Console App 1\bin\Debug\netcoreapp3.1\Hello World Console App 1.runtimeconfig.dev.json
+C:\Users\Naveed Akhtar\source\repos\HelloWorldConsoleApp1\Hello World Console App 1\bin\Debug\netcoreapp3.1\Hello World Console App 1.dll
+C:\Users\Naveed Akhtar\source\repos\HelloWorldConsoleApp1\Hello World Console App 1\bin\Debug\netcoreapp3.1\Hello World Console App 1.pdb
+C:\Users\Naveed Akhtar\source\repos\HelloWorldConsoleApp1\Hello World Console App 1\obj\Debug\netcoreapp3.1\Hello World Console App 1.csprojAssemblyReference.cache
+C:\Users\Naveed Akhtar\source\repos\HelloWorldConsoleApp1\Hello World Console App 1\obj\Debug\netcoreapp3.1\Hello World Console App 1.AssemblyInfoInputs.cache
+C:\Users\Naveed Akhtar\source\repos\HelloWorldConsoleApp1\Hello World Console App 1\obj\Debug\netcoreapp3.1\Hello World Console App 1.AssemblyInfo.cs
+C:\Users\Naveed Akhtar\source\repos\HelloWorldConsoleApp1\Hello World Console App 1\obj\Debug\netcoreapp3.1\Hello World Console App 1.csproj.CoreCompileInputs.cache
+C:\Users\Naveed Akhtar\source\repos\HelloWorldConsoleApp1\Hello World Console App 1\obj\Debug\netcoreapp3.1\Hello World Console App 1.dll
+C:\Users\Naveed Akhtar\source\repos\HelloWorldConsoleApp1\Hello World Console App 1\obj\Debug\netcoreapp3.1\Hello World Console App 1.pdb
+C:\Users\Naveed Akhtar\source\repos\HelloWorldConsoleApp1\Hello World Console App 1\obj\Debug\netcoreapp3.1\Hello World Console App 1.genruntimeconfig.cache
